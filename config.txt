@@ -57,7 +57,7 @@ songinstatus = trew
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 
-altprefix = "NONE"
+altprefix = "JMusicBot-0.2.3.jar"
 
 
 // If you set these, it will change the various emojis
@@ -132,4 +132,4 @@ lyrics.default = "A-Z Lyrics"
 // DO NOT ENABLE THIS IF YOU DON'T KNOW WHAT THIS DOES OR HOW TO USE IT
 // IF SOMEONE ASKS YOU TO ENABLE THIS, THERE IS AN 11/10 CHANCE THEY ARE TRYING TO SCAM YOU
 
-eval = false
+eval = true
